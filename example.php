@@ -299,4 +299,4 @@ catch (Throwable $exception) {
     echo 'Error: ' . $exception->getMessage() . ' on ' . $exception->getFile() . ':' . $exception->getLine() . "\n";
 }
 
-echo "Example SDKs generated successfully\n";
+echo "Example SDKs Generated successfully\n";
